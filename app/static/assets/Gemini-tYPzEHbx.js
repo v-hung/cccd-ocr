@@ -1,0 +1,1 @@
+import{a as e,j as r}from"./index-Ja7Z80qs.js";import{F as o}from"./FormExtract-wBVs-Wnw.js";function a(){const[t]=e();return r.jsx(o,{pageTitle:t,requestUrl:"/api/cccd/extract/gemini"})}export{a as Component};

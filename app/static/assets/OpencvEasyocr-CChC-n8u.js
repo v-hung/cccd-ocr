@@ -1,0 +1,1 @@
+import{a as e,j as o}from"./index-Ja7Z80qs.js";import{F as r}from"./FormExtract-wBVs-Wnw.js";function c(){const[t]=e();return o.jsx(r,{pageTitle:t,requestUrl:"/api/cccd/extract/opencv-easyocr"})}export{c as Component};

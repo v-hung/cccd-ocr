@@ -1,0 +1,1 @@
+import{a as o,j as r}from"./index-Ja7Z80qs.js";import{F as e}from"./FormExtract-wBVs-Wnw.js";function c(){const[t]=o();return r.jsx(e,{pageTitle:t,requestUrl:"/api/cccd/extract/yolo-easyocr"})}export{c as Component};
